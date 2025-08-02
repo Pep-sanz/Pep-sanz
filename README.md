@@ -1,53 +1,34 @@
-# 👋 Hi, I'm Pepep Saepul Rohman — Frontend Developer
+![banner](img/github-header-1.png)
+
+## Summary
 
 Passionate and seasoned Software Engineer with a strong focus on frontend development. Proficient in TypeScript and well-versed in all aspects of web technologies. Collaborative team player dedicated to delivering efficient, scalable, and visually appealing web applications.
 
 ---
 
-## 💼 Keahlian Utama
+## Skils
 
-- ⚛️ **React.js** & **Next.js** – Membangun SPA dan SSR/SSG apps.
-- 🎨 **UI/UX** – Desain antarmuka yang konsisten dan mobile-first.
-- 💅 **Chakra UI**, **Tailwind CSS**, **Styled Components** – Styling yang efisien dan dapat dipelihara.
-- ⚙️ **React Hook Form** + **Zod/Yup** – Validasi dan pengelolaan form kompleks.
-- 🔄 **TanStack React Query** – Data fetching dan state sinkronisasi.
-- 🧪 **Jest**, **RTL** – Pengujian frontend dan test coverage.
-- 🔗 **Axios**, **SWR**, **REST API**, **GraphQL** – Konsumsi dan integrasi data.
-- 🌐 **Responsive Web Design** – Optimal di berbagai perangkat dan resolusi.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="32" alt="javascript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32" alt="laravel logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker logo"  />
+</div>
 
----
+###
 
-## 🧠 Prinsip Kerja
+<img src="https://raw.githubusercontent.com/Pep-sanz/Pep-sanz/output/snake.svg" alt="Snake animation" />
 
-- **Reusable Components** — Menulis kode yang modular dan mudah digunakan kembali.
-- **Code Maintainability** — Struktur proyek yang bersih dan scalable.
-- **Performance-Oriented** — Fokus pada optimasi UI & UX (lazy load, memoization, dll).
-- **Team Collaboration** — Terbiasa menggunakan Git, Jira, Figma, dan bekerja lintas tim.
-
----
-
-## 📁 Beberapa Proyek Saya
-
-| Proyek | Deskripsi | Teknologi |
-|--------|-----------|-----------|
-| `Dashboard Karyawan` | Sistem manajemen cuti dan presensi karyawan | React, Chakra UI, React Query |
-| `E-Commerce UI` | Tampilan web e-commerce responsif | Next.js, Tailwind CSS, SWR |
-| `Admin Panel` | Panel manajemen data dengan CRUD lengkap | React, Ant Design, Zustand |
-
-> 💡 *Untuk melihat lebih lanjut, silakan cek [repositori GitHub saya](https://github.com/username)*
-
----
-
-## ✉️ Hubungi Saya
-
-- Email: [email@example.com]
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
-- GitHub: [github.com/username](https://github.com/username)
-
----
-
-## 🚀 Motto Kerja
-
-> *"Sederhana, konsisten, dan bisa diandalkan."*
-
-Terima kasih sudah mampir ke profil saya! 😊
+###
