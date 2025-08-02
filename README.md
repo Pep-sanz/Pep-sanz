@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Nama Kamu] — Frontend Developer
 
-Saya adalah seorang **Frontend Developer** dengan pengalaman dalam membangun antarmuka pengguna yang cepat, responsif, dan mudah digunakan. Keahlian saya berfokus pada pengembangan aplikasi web modern menggunakan **React**, **TypeScript**, dan framework UI seperti **Chakra UI**, **Tailwind CSS**, serta integrasi REST API/GraphQL.
+Passionate and seasoned Software Engineer with a strong focus on frontend development. Proficient in TypeScript and well-versed in all aspects of web technologies. Collaborative team player dedicated to delivering efficient, scalable, and visually appealing web applications.
 
 ---
 
